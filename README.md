@@ -24,5 +24,13 @@ Python 3 + Pygame + various libs
 - Visualization of the map via Pygame
 - Different levels of zoom that display different levels of detail*
 
+### TODO:
+- [ ] build a basic representation of the `Map` object (+ `Terrain`s and everything)
+- [ ] build a basic tools (e.g. based on [Pillow](https://pillow.readthedocs.io/en/5.3.x/) that displays a `Map` (useful for quick testing)
+- [ ] Devise generating algorithms for map-level terrains
+- [ ] Devise generating algorithms for terrain-level visual representations
+- [ ] Integrate all of the above with Pygame
+
+
 ---
 \* Nice to have's
